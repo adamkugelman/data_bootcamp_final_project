@@ -1,6 +1,6 @@
 # data_bootcamp_final_project
 
-This project was completed by insert full name here in partial fulfilment of ECON-GB.2313,
+This project was completed by Adam Kugelman in partial fulfilment of ECON-GB.2313,
 Data Bootcamp, Summer 2019. I certify that the NYU Stern Honor Code applies to this project.
 In particular, I have:
 Clearly acknowledged the work and efforts of others when submitting written work as our own.
