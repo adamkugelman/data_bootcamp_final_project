@@ -14,4 +14,4 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 the project and course.
 
 Project Description
-
+We analyzed gun violence in the USA from 2013 to 2018. We focused on the weapons used, age and gender of partipants, geographic locations, and time of year. The data shows that incidents typically involve young adult men with handguns. Chicago has the most gun violence of any city and overall, and shooting incidents tend to increase during the summer months. 
